@@ -1,0 +1,1 @@
+    //update periodically    setInterval(function(){model.selectionBuildStanceContinuous();}, 250);
